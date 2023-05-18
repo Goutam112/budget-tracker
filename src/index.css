@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Instrument Sans', sans-serif;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  letter-spacing: 0.05rem;
+  font-weight: 400;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+body {
+  margin: 0;
+  background-color: #3f3f3f;
+}
